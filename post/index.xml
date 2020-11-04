@@ -2,28 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Sviatoslav Lavrinchuk</title>
-    <link>https://github.com/Sviatoslav-Lavrinchuk/Data_Science_Portfolio/post/</link>
+    <link>https://sviatoslav-lavrinchuk.github.io/Data_Science_Portfolio/post/</link>
     <description>Recent content in Projects on Sviatoslav Lavrinchuk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://github.com/Sviatoslav-Lavrinchuk/Data_Science_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 09 Sep 2020 12:00:00 -0500</lastBuildDate><atom:link href="https://sviatoslav-lavrinchuk.github.io/Data_Science_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>CNN Language Detection</title>
-      <link>https://github.com/Sviatoslav-Lavrinchuk/Data_Science_Portfolio/post/project-1/</link>
-      <pubDate>Wed, 09 Sep 2020 10:58:08 -0400</pubDate>
+      <title>EDA Titanik</title>
+      <link>https://sviatoslav-lavrinchuk.github.io/Data_Science_Portfolio/post/project-2/</link>
+      <pubDate>Sat, 10 Oct 2020 11:00:59 -0400</pubDate>
       
-      <guid>https://github.com/Sviatoslav-Lavrinchuk/Data_Science_Portfolio/post/project-1/</guid>
-      <description> Blah1 Blah2 Blah42 Blah69    </description>
+      <guid>https://sviatoslav-lavrinchuk.github.io/Data_Science_Portfolio/post/project-2/</guid>
+      <description>Image
+Link</description>
     </item>
     
     <item>
-      <title>EDA Titanik</title>
-      <link>https://github.com/Sviatoslav-Lavrinchuk/Data_Science_Portfolio/post/project-2/</link>
-      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      <title>CNN Language Detection</title>
+      <link>https://sviatoslav-lavrinchuk.github.io/Data_Science_Portfolio/post/project-1/</link>
+      <pubDate>Wed, 09 Sep 2020 10:58:08 -0400</pubDate>
       
-      <guid>https://github.com/Sviatoslav-Lavrinchuk/Data_Science_Portfolio/post/project-2/</guid>
-      <description>point  Image
-Link</description>
+      <guid>https://sviatoslav-lavrinchuk.github.io/Data_Science_Portfolio/post/project-1/</guid>
+      <description>Colab Notebook: CNN Language Detection
+Description:
+ Train various models to distinguish English, French, German and Greek languages from a picture Comparison of MLP, Simple CNN, CNN with dropout, VGG16, ResNet Visualization of results and layer activations    </description>
     </item>
     
   </channel>

@@ -3,89 +3,53 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://github.com/Sviatoslav-Lavrinchuk/Data_Science_Portfolio/</loc>
+    <loc>https://sviatoslav-lavrinchuk.github.io/Data_Science_Portfolio/</loc>
+    <lastmod>2020-10-10T11:00:59-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sviatoslav-lavrinchuk.github.io/Data_Science_Portfolio/post/project-2/</loc>
+    <lastmod>2020-10-10T11:00:59-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sviatoslav-lavrinchuk.github.io/Data_Science_Portfolio/post/</loc>
+    <lastmod>2020-09-09T12:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sviatoslav-lavrinchuk.github.io/Data_Science_Portfolio/post/project-1/</loc>
     <lastmod>2020-09-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://github.com/Sviatoslav-Lavrinchuk/Data_Science_Portfolio/tags/cnn/</loc>
-    <lastmod>2020-09-09T10:58:08-04:00</lastmod>
+    <loc>https://sviatoslav-lavrinchuk.github.io/Data_Science_Portfolio/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://github.com/Sviatoslav-Lavrinchuk/Data_Science_Portfolio/post/project-1/</loc>
-    <lastmod>2020-09-09T10:58:08-04:00</lastmod>
+    <loc>https://sviatoslav-lavrinchuk.github.io/Data_Science_Portfolio/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://github.com/Sviatoslav-Lavrinchuk/Data_Science_Portfolio/tags/computer-vision/</loc>
-    <lastmod>2020-09-09T10:58:08-04:00</lastmod>
+    <loc>https://sviatoslav-lavrinchuk.github.io/Data_Science_Portfolio/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://github.com/Sviatoslav-Lavrinchuk/Data_Science_Portfolio/tags/keras/</loc>
-    <lastmod>2020-09-09T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://github.com/Sviatoslav-Lavrinchuk/Data_Science_Portfolio/tags/</loc>
-    <lastmod>2020-09-09T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://github.com/Sviatoslav-Lavrinchuk/Data_Science_Portfolio/tags/eda/</loc>
-    <lastmod>2017-04-10T11:00:59-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://github.com/Sviatoslav-Lavrinchuk/Data_Science_Portfolio/post/project-2/</loc>
-    <lastmod>2017-04-10T11:00:59-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://github.com/Sviatoslav-Lavrinchuk/Data_Science_Portfolio/tags/kaggle/</loc>
-    <lastmod>2017-04-10T11:00:59-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://github.com/Sviatoslav-Lavrinchuk/Data_Science_Portfolio/post/</loc>
-    <lastmod>2017-03-02T12:00:00-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://github.com/Sviatoslav-Lavrinchuk/Data_Science_Portfolio/about/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://github.com/Sviatoslav-Lavrinchuk/Data_Science_Portfolio/categories/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://github.com/Sviatoslav-Lavrinchuk/Data_Science_Portfolio/contact/</loc>
+    <loc>https://sviatoslav-lavrinchuk.github.io/Data_Science_Portfolio/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
