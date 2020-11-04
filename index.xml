@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ananke: a Hugo Theme on Sviatoslav Lavrinchuk</title>
+    <link>https://github.com/Sviatoslav-Lavrinchuk/Data_Science_Portfolio/</link>
+    <description>Recent content in Ananke: a Hugo Theme on Sviatoslav Lavrinchuk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 09 Sep 2020 10:58:08 -0400</lastBuildDate><atom:link href="https://github.com/Sviatoslav-Lavrinchuk/Data_Science_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CNN Language Detection</title>
+      <link>https://github.com/Sviatoslav-Lavrinchuk/Data_Science_Portfolio/post/project-1/</link>
+      <pubDate>Wed, 09 Sep 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://github.com/Sviatoslav-Lavrinchuk/Data_Science_Portfolio/post/project-1/</guid>
+      <description> Blah1 Blah2 Blah42 Blah69    </description>
+    </item>
+    
+    <item>
+      <title>EDA Titanik</title>
+      <link>https://github.com/Sviatoslav-Lavrinchuk/Data_Science_Portfolio/post/project-2/</link>
+      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://github.com/Sviatoslav-Lavrinchuk/Data_Science_Portfolio/post/project-2/</guid>
+      <description>point  Image
+Link</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://github.com/Sviatoslav-Lavrinchuk/Data_Science_Portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/Sviatoslav-Lavrinchuk/Data_Science_Portfolio/contact/</guid>
+      <description>Feel free to contact me anytime.
+   Platform URL     Linkeddin: https://www.linkedin.com/in/sviatoslav-lavrinchuk-951860146/   GitHub: https://github.com/Sviatoslav-Lavrinchuk/   Kaggle: https://www.kaggle.com/sviatoslavlavrinchuk    </description>
+    </item>
+    
+  </channel>
+</rss>
