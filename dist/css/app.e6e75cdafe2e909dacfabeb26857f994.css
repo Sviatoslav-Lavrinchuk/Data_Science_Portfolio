@@ -3301,7 +3301,7 @@ code, .code {
 .hover-bg-light-gray:focus { background-color: #eee; }
 
 .hover-bg-near-white:hover, 
-.hover-bg-near-white:focus { background-color: #f4f4f4; }
+.hover-bg-near-white:focus { background-color: white; }
 
 .hover-bg-white:hover, 
 .hover-bg-white:focus { background-color: #fff; }
@@ -4798,7 +4798,7 @@ code, .code {
 }
 
 .striped--near-white:nth-child(odd) {
-  background-color: #f4f4f4;
+  background-color: white;
 }
 
 .stripe-light:nth-child(odd) {
