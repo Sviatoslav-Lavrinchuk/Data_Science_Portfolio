@@ -13,7 +13,8 @@
       <pubDate>Thu, 05 Nov 2020 11:00:59 -0400</pubDate>
       
       <guid>https://sviatoslav-lavrinchuk.github.io/Data_Science_Portfolio/post/11_05_retina/</guid>
-      <description>This project tackles two tasks: Face detection and Face mask classification.
+      <description>The results of this project you will find throughout this article below:
+  This project tackles two tasks: Face detection and Face mask classification.
   Classification of masked people requires face detection as there may be multiple faces in one frame. According to this recent article on Towards Data Science, OpenCV’s Caffe model of the DNN module and MTCNN are the best options for face detection.
 According to Papers with code, RetinaFace is the best performer for face detection on a hard version of WiderFace dataset.</description>
     </item>
@@ -36,8 +37,8 @@ According to Papers with code, RetinaFace is the best performer for face detecti
       <guid>https://sviatoslav-lavrinchuk.github.io/Data_Science_Portfolio/post/10_21_titanic/</guid>
       <description>My approach to Exploratory Data Analysis for Titanic Dataset was the following:
   Take a brief look at the dataset as the whole to get the general idea what we are dealing with here.
-  Examine each column of the dataset at a time, visualize it&amp;rsquo;s relations with other features, try some preprocessing operations and see how it correlates with survival
-  Based on the analysis of the features decide on the final preprocessing of data</description>
+  Examine each column of the dataset at a time, visualize it&amp;rsquo;s relations with other features, try some preprocessing operations and see how it correlates with survival.
+  Based on the analysis of the features decide on the final preprocessing of data.</description>
     </item>
     
     <item>
@@ -48,7 +49,7 @@ According to Papers with code, RetinaFace is the best performer for face detecti
       <guid>https://sviatoslav-lavrinchuk.github.io/Data_Science_Portfolio/post/10_03_nb2/</guid>
       <description>Naive Bayes is one of the most common ML algorithms that is often used for the purpose of text classification. In this project I successfuly attempted to create my Naive Bayes Text Classifier:
 Step # 1: Data Preprocessing
-Step # 2:Tokenization of Preprocessed Test Example In Naive Bayes, each word in the vocabulary of each class of the training data set constitutes a categorical feature. This implies that counts of all the unique words (i.</description>
+Step # 2:Tokenization of Preprocessed Test Example In Naive Bayes, each word in the vocabulary of each class of the training data set constitutes a categorical feature. This implies that counts of all the unique words of each class are basically a set of features for that particular class.</description>
     </item>
     
     <item>
@@ -60,7 +61,7 @@ Step # 2:Tokenization of Preprocessed Test Example In Naive Bayes, each word in 
       <description>In this project I received a large number of text files which subsequently were to used for classification.
 First, it was necessary to predict encoding and language of text.
 In order to filter out bad data, the following metrics were calculated for each file:
- percentage of undecoded characters numer of lines number of sentances number of words top 10 most common words language  Ploting results facilitated the process of finding outliers:</description>
+ percentage of undecoded characters numer of lines number of sentances number of words top 10 most common words language  Ploting results facilitated the process of finding outliers.</description>
     </item>
     
     <item>
