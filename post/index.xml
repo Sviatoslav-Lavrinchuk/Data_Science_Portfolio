@@ -1,31 +1,79 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Sviatoslav Lavrinchuk</title>
-    <link>https://sviatoslav-lavrinchuk.github.io/Data_Science_Portfolio/post/</link>
-    <description>Recent content in Projects on Sviatoslav Lavrinchuk</description>
+    <title>Portfolio on Sviat Lavrinchuk</title>
+    <link>https://github.com/Sviatoslav-Lavrinchuk/Data_Science_Portfolio/post/</link>
+    <description>Recent content in Portfolio on Sviat Lavrinchuk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Sep 2020 12:00:00 -0500</lastBuildDate><atom:link href="https://sviatoslav-lavrinchuk.github.io/Data_Science_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 09 Sep 2020 12:00:00 -0500</lastBuildDate><atom:link href="https://github.com/Sviatoslav-Lavrinchuk/Data_Science_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>EDA Titanik</title>
-      <link>https://sviatoslav-lavrinchuk.github.io/Data_Science_Portfolio/post/project-2/</link>
-      <pubDate>Sat, 10 Oct 2020 11:00:59 -0400</pubDate>
+      <title>Face mask classification</title>
+      <link>https://github.com/Sviatoslav-Lavrinchuk/Data_Science_Portfolio/post/11_05_retina/</link>
+      <pubDate>Thu, 05 Nov 2020 11:00:59 -0400</pubDate>
       
-      <guid>https://sviatoslav-lavrinchuk.github.io/Data_Science_Portfolio/post/project-2/</guid>
-      <description>Image
-Link</description>
+      <guid>https://github.com/Sviatoslav-Lavrinchuk/Data_Science_Portfolio/post/11_05_retina/</guid>
+      <description>This project tackles two tasks: Face detection and Face mask classification.
+  Classification of masked people requires face detection as there may be multiple faces in one frame. According to this recent article on Towards Data Science, OpenCV’s Caffe model of the DNN module and MTCNN are the best options for face detection.
+According to Papers with code, RetinaFace is the best performer for face detection on a hard version of WiderFace dataset.</description>
     </item>
     
     <item>
       <title>CNN Language Detection</title>
-      <link>https://sviatoslav-lavrinchuk.github.io/Data_Science_Portfolio/post/project-1/</link>
-      <pubDate>Wed, 09 Sep 2020 10:58:08 -0400</pubDate>
+      <link>https://github.com/Sviatoslav-Lavrinchuk/Data_Science_Portfolio/post/10_31_cnn_lang/</link>
+      <pubDate>Sat, 31 Oct 2020 10:58:08 -0400</pubDate>
       
-      <guid>https://sviatoslav-lavrinchuk.github.io/Data_Science_Portfolio/post/project-1/</guid>
-      <description>Colab Notebook: CNN Language Detection
-Description:
- Train various models to distinguish English, French, German and Greek languages from a picture Comparison of MLP, Simple CNN, CNN with dropout, VGG16, ResNet Visualization of results and layer activations    </description>
+      <guid>https://github.com/Sviatoslav-Lavrinchuk/Data_Science_Portfolio/post/10_31_cnn_lang/</guid>
+      <description>Description:
+ Train various models to distinguish English, French, German and Greek languages from a picture Comparison of MLP, Simple CNN, CNN with dropout, VGG16, ResNet Visualization of results and layer activations  Using the Pillow module it is possible to wrap given text into a number of JPG images. Therefore, my model is able to use arbitrary number of txt files which will be treated and preprocessed as separate classes.</description>
+    </item>
+    
+    <item>
+      <title>EDA Titanik</title>
+      <link>https://github.com/Sviatoslav-Lavrinchuk/Data_Science_Portfolio/post/10_21_titanic/</link>
+      <pubDate>Wed, 21 Oct 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://github.com/Sviatoslav-Lavrinchuk/Data_Science_Portfolio/post/10_21_titanic/</guid>
+      <description>My approach to Exploratory Data Analysis for Titanic Dataset was the following:
+  Take a brief look at the dataset as the whole to get the general idea what we are dealing with here.
+  Examine each column of the dataset at a time, visualize it&amp;rsquo;s relations with other features, try some preprocessing operations and see how it correlates with survival
+  Based on the analysis of the features decide on the final preprocessing of data</description>
+    </item>
+    
+    <item>
+      <title>Text classification. Part 2. Naive Bayes from scratch</title>
+      <link>https://github.com/Sviatoslav-Lavrinchuk/Data_Science_Portfolio/post/10_03_nb2/</link>
+      <pubDate>Sat, 03 Oct 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://github.com/Sviatoslav-Lavrinchuk/Data_Science_Portfolio/post/10_03_nb2/</guid>
+      <description>Naive Bayes is one of the most common ML algorithms that is often used for the purpose of text classification. In this project I successfuly attempted to create my Naive Bayes Text Classifier:
+Step # 1: Data Preprocessing
+Step # 2:Tokenization of Preprocessed Test Example In Naive Bayes, each word in the vocabulary of each class of the training data set constitutes a categorical feature. This implies that counts of all the unique words (i.</description>
+    </item>
+    
+    <item>
+      <title>Text classification. Part 1. NLP EDA</title>
+      <link>https://github.com/Sviatoslav-Lavrinchuk/Data_Science_Portfolio/post/09_20_nb1/</link>
+      <pubDate>Sun, 20 Sep 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://github.com/Sviatoslav-Lavrinchuk/Data_Science_Portfolio/post/09_20_nb1/</guid>
+      <description>In this project I received a large number of text files which subsequently were to used for classification.
+First, it was necessary to predict encoding and language of text.
+In order to filter out bad data, the following metrics were calculated for each file:
+ percentage of undecoded characters numer of lines number of sentances number of words top 10 most common words language  Ploting results facilitated the process of finding outliers:</description>
+    </item>
+    
+    <item>
+      <title>Twitter &amp; Statistics</title>
+      <link>https://github.com/Sviatoslav-Lavrinchuk/Data_Science_Portfolio/post/09_01_twitter/</link>
+      <pubDate>Tue, 01 Sep 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://github.com/Sviatoslav-Lavrinchuk/Data_Science_Portfolio/post/09_01_twitter/</guid>
+      <description>Colab Notebook: Twitter &amp;amp; Statistics
+In this project I&amp;rsquo;ve mined a database of tweets via Twitter API.
+As a next step, I&amp;rsquo;ve chosen the following word pairs:
+ Independent: cat and work Have weak dependency: money and happy Have Strong Dependency: police and riot  With these word pairs I accoplished the following tasks:
+ Find absolute probability for each word in your corpus Find probability of Word given it’s pair Find pair probability given it’s word Make a conclusion on pair dependencies Compute pearson correlation coefficient on word and pair frequencies in corpus chunk Draw messages frequency over the whole period Draw a diagram of distribution of word “Ukraine” frequency over the whole day.</description>
     </item>
     
   </channel>
